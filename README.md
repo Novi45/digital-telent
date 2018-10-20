@@ -1,1 +1,1 @@
-# digital-telent
+# digital-talent
